@@ -6,7 +6,7 @@ The website has a photo searching feature that a user can search for photos base
 Photos can be uploaded on the website hosted by AWS EC2 webserver and they are stored in the S3 bucket after setting metadata for each photo.
 
 
-This project demonstrate the following knowledge and technologies;
+This project demonstrates the following knowledge and technologies;
 
 - Use of AWS SDK for PHP
 - How to create IAM roles to enable an EC2 instance to access S3.
